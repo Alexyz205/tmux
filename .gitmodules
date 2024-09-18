@@ -1,0 +1,9 @@
+[submodule "catppuccin"]
+	url = https://git::@github.com/catppuccin/tmux
+	path = .tmux/plugins/tmux
+[submodule "vim-tmux-navigator"]
+	url = https://github.com/christoomey/vim-tmux-navigator.git 
+	path = .tmux/plugins/vim-tmux-navigator
+[submodule "tpm"]
+	url = https://github.com/tmux-plugins/tpm
+	path = .tmux/plugins/tpm
